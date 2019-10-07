@@ -2,5 +2,5 @@
 
 OpenCV Haar Cascade Filter tutorial (Face detection).
 
-More infomation here.
+More infomation here (Japanese).
 https://sumisame.com/archives/1982
